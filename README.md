@@ -10,9 +10,9 @@ Fig. 2(a): sliceLL.m with THIN=2.^(0:1:7); samplers=100; alpha=1;
 
 Fig. 2(b): pcnLL.m with THIN=2.^(0:1:9); samplers=100; alpha=1;
 
-Fig. 4(a): pcnLL.m and pcnPL with THIN=2.^(0:1:9); samplers=100; alpha=1;
+Fig. 4(a): pcnLL.m and pcnPL.m with THIN=2.^(0:1:9); samplers=100; alpha=1;
 
-Fig. 4(b): pcnLL.m and pcnPL. mwith THIN=2.^(0:1:9); samplers=100; alpha=1/4;
+Fig. 4(b): pcnLL.m and pcnPL.m with THIN=2.^(0:1:9); samplers=100; alpha=1/4;
 
 Fig. 5: timeTestLL.m and timeTestPL.m with:  
 dataFileName = 'simData_L=0.95_d=2.mat'; d=2;  
